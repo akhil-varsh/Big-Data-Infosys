@@ -26,7 +26,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - Decision-making processes
   - Difference between BI and Business Analytics
 - **Skills Gained:** Business Analyst
-- **Certificate:** [View Certificate](./Introduction to Business Intelligence.pdf)
+- **Certificate:** [View Certificate](./Introduction%20to%20Business%20Intelligence.pdf)
 
 ### 2. 🗄️ Introduction to NoSQL Databases
 - **Duration:** 7h 26m
@@ -37,7 +37,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - Choosing the right NoSQL model for business needs
   - CAP theorem and its application
 - **Skills Gained:** NoSQL Databases
-- **Certificate:** [View Certificate](./Introduction to NoSQL databases.pdf)
+- **Certificate:** [View Certificate](./Introduction%20to%20NoSQL%20databases.pdf)
 
 ### 3. ☁️ Essentials of Cloud Computing
 - **Duration:** 3h 24m
@@ -50,7 +50,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - Virtualization and containers
   - Cloud native development, migration, and security
 - **Skills Gained:** Cloud Platform
-- **Certificate:** [View Certificate](./Essentials of Cloud Computing.pdf)
+- **Certificate:** [View Certificate](./Essentials%20of%20Cloud%20Computing.pdf)
 
 ### 4. 🐍 Introduction to Python
 - **Duration:** 24h 6m
@@ -61,7 +61,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - File and exception handling
   - Applying Python to solve business problems
 - **Skills Gained:** Python Programming
-- **Certificate:** [View Certificate](./Introduction to Python.pdf)
+- **Certificate:** [View Certificate](./Introduction%20to%20Python.pdf)
 
 ### 5. 📊 Big Data 101
 - **Duration:** 4h 27m
@@ -71,7 +71,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - Hadoop framework and ecosystem
   - NoSQL databases overview
 - **Skills Gained:** Big Data, Hadoop
-- **Certificate:** [View Certificate](./Big Data 101.pdf)
+- **Certificate:** [View Certificate](./Big%20Data%20101.pdf)
 
 ---
 
