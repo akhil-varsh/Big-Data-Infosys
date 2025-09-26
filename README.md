@@ -8,7 +8,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
 
 | Status | Courses Completed | Total Courses | Progress |
 |--------|-------------------|---------------|----------|
-| ✅ Completed | 5 | 9 | ![Progress](https://progress-bar.dev/56?title=56%25) |
+| ✅ Completed | 5 | 9 | ████████████████░░░░░░░░ 56% |
 
 ---
 
@@ -26,7 +26,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - Decision-making processes
   - Difference between BI and Business Analytics
 - **Skills Gained:** Business Analyst
-- **Certificate:** [View Certificate](./certificates/intro-to-bi-certificate.pdf)
+- **Certificate:** [View Certificate](./Introduction to Business Intelligence.pdf)
 
 ### 2. 🗄️ Introduction to NoSQL Databases
 - **Duration:** 7h 26m
@@ -37,7 +37,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - Choosing the right NoSQL model for business needs
   - CAP theorem and its application
 - **Skills Gained:** NoSQL Databases
-- **Certificate:** [View Certificate](./certificates/intro-to-nosql-certificate.pdf)
+- **Certificate:** [View Certificate](./Introduction to NoSQL databases.pdf)
 
 ### 3. ☁️ Essentials of Cloud Computing
 - **Duration:** 3h 24m
@@ -50,7 +50,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - Virtualization and containers
   - Cloud native development, migration, and security
 - **Skills Gained:** Cloud Platform
-- **Certificate:** [View Certificate](./certificates/essentials-of-cloud-certificate.pdf)
+- **Certificate:** [View Certificate](./Essentials of Cloud Computing.pdf)
 
 ### 4. 🐍 Introduction to Python
 - **Duration:** 24h 6m
@@ -61,7 +61,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - File and exception handling
   - Applying Python to solve business problems
 - **Skills Gained:** Python Programming
-- **Certificate:** [View Certificate](./certificates/intro-to-python-certificate.pdf)
+- **Certificate:** [View Certificate](./Introduction to Python.pdf)
 
 ### 5. 📊 Big Data 101
 - **Duration:** 4h 27m
@@ -71,7 +71,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
   - Hadoop framework and ecosystem
   - NoSQL databases overview
 - **Skills Gained:** Big Data, Hadoop
-- **Certificate:** [View Certificate](./certificates/big-data-101-certificate.pdf)
+- **Certificate:** [View Certificate](./Big Data 101.pdf)
 
 ---
 
@@ -88,7 +88,7 @@ Welcome to my Big Data learning journey! As part of my faculty-assigned course, 
 
 ## 🏆 Certificates
 
-All completion certificates are stored in the `certificates/` folder. Click on the links above to view them directly.
+All completion certificates are in the root folder. Click on the links above to view them directly.
 
 ---
 
@@ -134,14 +134,11 @@ I've created a video presentation summarizing my learning journey. Here's the ou
 
 ```
 Big Data Learning Path/
-├── certificates/
-│   ├── intro-to-bi-certificate.pdf
-│   ├── intro-to-nosql-certificate.pdf
-│   ├── essentials-of-cloud-certificate.pdf
-│   ├── intro-to-python-certificate.pdf
-│   └── big-data-101-certificate.pdf
-├── videos/
-│   └── learning-path-presentation.mp4
+├── Big Data 101.pdf
+├── Essentials of Cloud Computing.pdf
+├── Introduction to Business Intelligence.pdf
+├── Introduction to NoSQL databases.pdf
+├── Introduction to Python.pdf
 ├── README.md
 └── [Other course materials]
 ```
